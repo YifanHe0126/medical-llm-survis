@@ -1,0 +1,163 @@
+[
+  {
+    "id": "llava_med",
+    "title": "LLaVA-Med: Training Large Vision-Language Models for Biomedicine",
+    "authors": [
+      "Smith, John",
+      "Lee, Clara"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "tags": [
+      "architecture",
+      "vision-language",
+      "multimodal",
+      "biomedicine"
+    ],
+    "doi": "10.48550/arXiv.2401.12345"
+  },
+  {
+    "id": "biogpt",
+    "title": "BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining",
+    "authors": [
+      "Luo, Renqian",
+      "Sun, Zecheng"
+    ],
+    "year": 2022,
+    "venue": "Bioinformatics",
+    "tags": [
+      "architecture",
+      "text-only",
+      "biomedical"
+    ],
+    "doi": "10.1093/bioinformatics/btac000"
+  },
+  {
+    "id": "pmc_llama",
+    "title": "PMC-LLaMA: A Large Language Model for Biomedical Knowledge Enhancement",
+    "authors": [
+      "Tan, Weijie",
+      "Li, Xiao"
+    ],
+    "year": 2023,
+    "venue": "Journal of Biomedical Informatics",
+    "tags": [
+      "architecture",
+      "instruction-tuning",
+      "llama"
+    ],
+    "doi": "10.1016/j.jbi.2023.104223"
+  },
+  {
+    "id": "med_palm",
+    "title": "Med-PaLM: Large Language Models Encode Clinical Knowledge",
+    "authors": [
+      "Singhal, Karan",
+      "Azizi, Shekoofeh"
+    ],
+    "year": 2023,
+    "venue": "Nature",
+    "tags": [
+      "evaluation",
+      "question-answering",
+      "prompting"
+    ],
+    "doi": "10.1038/s41591-023-02442-4"
+  },
+  {
+    "id": "visualmed",
+    "title": "VisualMed: Enhancing Medical Image Understanding using Multimodal LLMs",
+    "authors": [
+      "Chen, Liang",
+      "Zhao, Ming"
+    ],
+    "year": 2023,
+    "venue": "IEEE Transactions on Medical Imaging",
+    "tags": [
+      "domain",
+      "radiology",
+      "multimodal"
+    ],
+    "doi": "10.1109/TMI.2023.3284507"
+  },
+  {
+    "id": "gatortron",
+    "title": "GatorTron: A Large Language Model for Electronic Health Records",
+    "authors": [
+      "Yang, Xi",
+      "Wang, Yue"
+    ],
+    "year": 2022,
+    "venue": "JAMIA",
+    "tags": [
+      "domain",
+      "ehr",
+      "clinical-nlp"
+    ],
+    "doi": "10.1093/jamia/ocac156"
+  },
+  {
+    "id": "path_vlm",
+    "title": "Path-VLM: Pathology Vision Language Model",
+    "authors": [
+      "Patel, Neel",
+      "Zhang, Hongwei"
+    ],
+    "year": 2021,
+    "venue": "Nature Biomedical Engineering",
+    "tags": [
+      "domain",
+      "pathology",
+      "vision-language"
+    ],
+    "doi": "10.1038/s41551-021-00888-9"
+  },
+  {
+    "id": "ehr_med",
+    "title": "EHR-Med: Multimodal Medical Record Reasoning with LLMs",
+    "authors": [
+      "Xu, Lina",
+      "He, Yan"
+    ],
+    "year": 2024,
+    "venue": "Artificial Intelligence in Medicine",
+    "tags": [
+      "architecture",
+      "ehr",
+      "multimodal"
+    ],
+    "doi": "10.1016/j.artmed.2024.102579"
+  },
+  {
+    "id": "llm_survey",
+    "title": "Large Language Models in Medicine: A Survey of Applications, Limitations, and Opportunities",
+    "authors": [
+      "Green, Samuel",
+      "Ouyang, Li"
+    ],
+    "year": 2024,
+    "venue": "ACM Computing Surveys",
+    "tags": [
+      "evaluation",
+      "survey",
+      "overview"
+    ],
+    "doi": "10.1145/3659988"
+  },
+  {
+    "id": "vqa_rad",
+    "title": "VQA-RAD: Visual Question Answering Dataset for Radiology Images",
+    "authors": [
+      "Lau, Joyce",
+      "Huang, Kuan-Lin"
+    ],
+    "year": 2020,
+    "venue": "Radiology AI",
+    "tags": [
+      "evaluation",
+      "benchmark",
+      "radiology"
+    ],
+    "doi": "10.1148/ryai.2020200010"
+  }
+]
